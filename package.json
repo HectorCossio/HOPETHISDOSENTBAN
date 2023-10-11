@@ -1,0 +1,33 @@
+{
+  "name": "terbium",
+  "version": "1.43",
+  "description": "Ultraviolet instance",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "proxy"
+  ],
+  "dependencies": {
+    "@tomphttp/bare-server-node": "^2.0.1",
+    "node-static": "^0.7.11",
+    "npm": "^8.7.0",
+    "path": "^0.12.7",
+    "serve-static": "^1.15.0",
+    "simplebar": "^6.2.5",
+    "start": "^5.1.0"
+  },
+  "author": "snoot69",
+  "license": "GPL-3.0-or-later",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TerbiumOS/webOS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TerbiumOS/webOS/issues"
+  },
+  "homepage": "https://github.com/TerbiumOS/webOS#readme"
+}
